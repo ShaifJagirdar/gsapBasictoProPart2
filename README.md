@@ -18,7 +18,6 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/gsap-scrolltrigger-animation.git
 Open the index.html file in a browser to explore the scroll-triggered animations.
 File Structure
 index.html: Main file containing sections and animation scripts.
